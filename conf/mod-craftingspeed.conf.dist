@@ -1,0 +1,22 @@
+[worldserver]
+#
+#    CraftingCastTime.Enable
+#        Description: Enable the crafting cast time modification.
+#        Default:     1 (Enabled)
+#                     0 (Disabled)
+CraftingCastTime.Enable = 1
+
+#
+#    CraftingCastTime.Multiplier
+#        Description: Multiplier for the cast time of crafting spells.
+#                     (e.g., 0.25 = 25% of normal cast time)
+#        Default:     0.25
+CraftingCastTime.Multiplier = 0.25
+
+#
+#    CraftingCastTime.ShowMessageOnLogin
+#        Description: Show a system message to players when they login,
+#                     informing them that the module is enabled.
+#        Default:     1 (Enabled)
+#                     0 (Disabled)
+CraftingCastTime.ShowMessageOnLogin = 1
